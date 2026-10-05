@@ -1,3 +1,5 @@
+![CI](https://github.com/seanakins06-code/Devops-Project/actions/workflows/ci.yml/badge.svg)
+![Render](https://img.shields.io/badge/deployed-Render-success)
 # DevOps Practice Project
 
 A small Flask API used to practice a full DevOps pipeline: version control, automated testing, containerization, CI/CD, infrastructure as code, and monitoring.
